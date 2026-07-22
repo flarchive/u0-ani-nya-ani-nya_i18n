@@ -1,0 +1,30 @@
+{
+    "name": "u0-ani-nya/ani-nya_i18n",
+    "description": "Auto translate discussions for Flarum",
+    "type": "flarum-extension",
+    "keywords": ["flarum", "translation", "i18n"],
+    "license": "AGPL-3.0-or-later",
+    "require": {
+        "php": "^8.3",
+        "flarum/core": "^2.0.0-beta",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "aniNya\\I18n\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Auto Translate",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-language",
+                "color": "#fff",
+                "backgroundColor": "#4dabf7"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
