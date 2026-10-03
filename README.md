@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of u0-ani-nya/ani-nya_i18n.** Not for installation: use [Packagist](https://packagist.org/packages/u0-ani-nya/ani-nya_i18n) or the [upstream repository](https://github.com/u0-ani-nya/ani-nya_i18n).
 
-**0** versions archived · Latest: [`1.3.5-beta`](https://github.com/flarchive/u0-ani-nya-ani-nya_i18n/tree/archive/v1.3.5-beta) · License: `AGPL-3.0-or-later` · Flarum: `^2.0.0-beta`
+**5** versions archived · Latest: [`1.3.5-beta`](https://github.com/flarchive/u0-ani-nya-ani-nya_i18n/tree/archive/v1.3.5-beta) · License: `AGPL-3.0-or-later` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.1.0-beta` | 2026-07-21 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/u0-ani-nya-ani-nya_i18n/tree/archive/v1.1.0-beta) |
+| `1.3.2-beta` | 2026-07-22 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/u0-ani-nya-ani-nya_i18n/tree/archive/v1.3.2-beta) |
+| `1.3.3-beta` | 2026-07-22 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/u0-ani-nya-ani-nya_i18n/tree/archive/v1.3.3-beta) |
+| `1.3.4-beta` | 2026-07-22 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/u0-ani-nya-ani-nya_i18n/tree/archive/v1.3.4-beta) |
+| `1.3.5-beta` | 2026-07-22 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/u0-ani-nya-ani-nya_i18n/tree/archive/v1.3.5-beta) |
 
 Catalog entry: [packages/u0-ani-nya-ani-nya_i18n.json](https://github.com/flarchive/archive-index/blob/main/packages/u0-ani-nya-ani-nya_i18n.json)
 
